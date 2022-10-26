@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiMatador
 - 👀 I’m interested in ... Python and Web-Design
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, slowly HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ... Learning first
 - 📫 How to reach me ... here at github
 
